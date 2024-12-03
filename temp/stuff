@@ -1,0 +1,5 @@
+<div class="text-center">
+    <h1 class="display-4"></h1>
+    <img src="~/images/cartheur-novel.jpg" alt="Cartheur Novel" class="img-fluid" />
+    <p class="mt-4">Between the past and the future lies what is undone</p>
+</div>
